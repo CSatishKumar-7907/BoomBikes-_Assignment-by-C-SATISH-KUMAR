@@ -21,23 +21,6 @@ The final relationship between target and predictors is as follows.
 𝑐𝑜𝑢𝑛𝑡=−0.49188+1.049202×𝑦𝑒𝑎𝑟+0.439435×𝑎𝑡𝑒𝑚𝑝−1.274991×𝑤𝑒𝑎𝑡ℎ𝑒𝑟𝑠𝑖𝑡𝐿𝑖𝑔ℎ𝑡𝑆𝑛𝑜𝑤−0.525270×𝑠𝑒𝑎𝑠𝑜𝑛𝑆𝑝𝑟𝑖𝑛𝑔−0.370485×𝑤𝑒𝑎𝑡ℎ𝑒𝑟𝑠𝑖𝑡𝑀𝑖𝑠𝑡+𝐶𝑙𝑜𝑢𝑑𝑦+0.293324×𝑤𝑒𝑒𝑘𝑑𝑎𝑦𝑆𝑎𝑡𝑢𝑟𝑑𝑎𝑦−0.291617×𝑚𝑜𝑛𝑡ℎ𝐽𝑢𝑙𝑦+0.252105×𝑚𝑜𝑛𝑡ℎ𝑆𝑒𝑝𝑡𝑒𝑚𝑏𝑒𝑟+0.241920×𝑤𝑜𝑟𝑘𝑖𝑛𝑔𝑑𝑎𝑦+0.178074×𝑠𝑒𝑎𝑠𝑜𝑛𝑊𝑖𝑛𝑡𝑒𝑟−0.096158×𝑤𝑖𝑛𝑑𝑠𝑝𝑒𝑒𝑑)
 * [Acknowledgements](#This project was a problem statement given by Upgrad for the cohort course of AI-ML_elective.)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
